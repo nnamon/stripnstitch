@@ -26,7 +26,7 @@ class StripNStitcher:
 
 def main():
     sns = StripNStitcher("./samples/pepe.png")
-    sns.stripnstitch(250).save("./samples/output.png")
+    sns.stripnstitch(500).save("./samples/output.png")
 
 if __name__  == "__main__":
     main()
