@@ -3,8 +3,12 @@
 Strip n' Stitch Library.
 
 Turns this:
-![Source][./samples/pepe.png]
+
+![Source][pepe]
 
 Into this:
-![Result][./samples/output.png]
 
+![Result][output]
+
+[pepe]: ./samples/pepe.png
+[output]: ./samples/output.png
